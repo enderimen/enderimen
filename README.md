@@ -15,6 +15,12 @@ if I come to the reason why I use this account, it is to record the information 
 ## 🔭  I’m Currently Working on ...
 I code the frontend of the sites I like. With the help of the road map I have prepared in my own way, I produce and develop projects on the subjects I am missing.
 
+NOTE: I aim to create a bridge between frontend developers and designer by designing hobby interface designs.
+
+It is an exemplary work.
+
+https://drive.google.com/drive/folders/1Y1qxh65O7ul9TsCJLpfUreS175s0fpu5?usp=sharing
+
 ## 🎯 My Goals Recently 
 - Developing **advanced applications** with **React.js**
 - Setting up **micro service structures** and **managing** these services with **Node.js**.
