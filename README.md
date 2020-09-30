@@ -6,7 +6,7 @@ This feeling keeps me motivated. And I can be successful when I'm motivated. Thi
 if I come to the reason why I use this account, it is to record the information I know, the projects I have done and to present it to other people.
 
 ## 🌱  I’m Currently Learning ...
-- Developing **advanced applications** with vue.
+- Developing **advanced applications** with **Vue**.
 - Do **component-based** coding.
 - Working with **Web APIs**
 - I am doing resource on the **Design System**.
