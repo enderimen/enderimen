@@ -29,4 +29,4 @@ https://drive.google.com/drive/folders/1Y1qxh65O7ul9TsCJLpfUreS175s0fpu5?usp=sha
 - To reinforce the issues I am missing about **clean code**.
 - And **More**
 
- 💬 You can contact me for your comments and suggestions.
+ 💬  You can contact me for your comments and suggestions.
