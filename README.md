@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=enderimen&show_icons=true&theme=radical&include_all_commits=true">
-
+<a><img src="https://github-readme-stats.vercel.app/api?username=enderimen&show_icons=true&theme=radical&include_all_commits=true"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enderimen&layout=compact&theme=radical&hide=PHP&langs_count=7"></a>
 ## 😎 Philoshopy of Ender's
 I am a frontend developer and I feel the need to constantly improve myself to do justice to my work. 
 This feeling keeps me motivated. And I can be successful when I'm motivated. This is a must-have golden rule for me. In short, 
