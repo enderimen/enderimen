@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/1Y1qxh65O7ul9TsCJLpfUreS175s0fpu5?usp=sha
 <a href="https://www.linkedin.com/in/enderimen/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
-<a href="https://twitter.com/enderimen" target="_blank">
+<a href="https://twitter.com/imenender" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
 </a>
 <a href="https://dribbble.com/enderimen" target="_blank">
